@@ -1,0 +1,129 @@
+object Form1: TForm1
+  Left = 212
+  Height = 299
+  Top = 122
+  Width = 484
+  Caption = 'Form1'
+  ClientHeight = 299
+  ClientWidth = 484
+  LCLVersion = '1.8.2.0'
+  object stgData: TStringGrid
+    Left = 0
+    Height = 227
+    Top = 72
+    Width = 484
+    Align = alClient
+    AlternateColor = 16579836
+    AutoFillColumns = True
+    ColCount = 3
+    Columns = <    
+      item
+        Alignment = taCenter
+        Title.Caption = 'N'
+        Width = 161
+      end    
+      item
+        Alignment = taRightJustify
+        Title.Caption = 'Xn'
+        Width = 161
+      end    
+      item
+        Alignment = taRightJustify
+        Title.Caption = 'Error'
+        Width = 161
+      end>
+    FixedCols = 0
+    Flat = True
+    TabOrder = 0
+    ColWidths = (
+      161
+      161
+      161
+    )
+  end
+  object Panel1: TPanel
+    Left = 0
+    Height = 72
+    Top = 0
+    Width = 484
+    Align = alTop
+    ClientHeight = 72
+    ClientWidth = 484
+    TabOrder = 1
+    object BbtnExecute: TButton
+      AnchorSideLeft.Control = ediError
+      AnchorSideLeft.Side = asrBottom
+      AnchorSideTop.Control = ediError
+      AnchorSideTop.Side = asrCenter
+      Left = 349
+      Height = 34
+      Top = 19
+      Width = 75
+      BorderSpacing.Left = 5
+      Caption = 'Execute'
+      OnClick = BbtnExecuteClick
+      TabOrder = 0
+    end
+    object ediError: TEdit
+      AnchorSideLeft.Control = ediX
+      AnchorSideLeft.Side = asrBottom
+      Left = 264
+      Height = 23
+      Top = 25
+      Width = 80
+      Alignment = taRightJustify
+      BorderSpacing.Left = 5
+      TabOrder = 1
+      Text = '0.0001'
+    end
+    object ediX: TEdit
+      AnchorSideLeft.Control = cboFunctions
+      AnchorSideLeft.Side = asrBottom
+      AnchorSideTop.Control = cboFunctions
+      Left = 179
+      Height = 23
+      Top = 25
+      Width = 80
+      Alignment = taCenter
+      BorderSpacing.Left = 5
+      TabOrder = 2
+      Text = '30'
+    end
+    object Label1: TLabel
+      AnchorSideLeft.Control = ediX
+      AnchorSideTop.Control = ediX
+      AnchorSideBottom.Control = ediX
+      Left = 179
+      Height = 15
+      Top = 10
+      Width = 8
+      Anchors = [akLeft, akBottom]
+      Caption = 'x:'
+      ParentColor = False
+    end
+    object Label2: TLabel
+      AnchorSideLeft.Control = ediError
+      AnchorSideBottom.Control = ediError
+      Left = 264
+      Height = 15
+      Top = 10
+      Width = 28
+      Anchors = [akLeft, akBottom]
+      AutoSize = False
+      Caption = 'Error:'
+      ParentColor = False
+    end
+    object cboFunctions: TComboBox
+      AnchorSideLeft.Side = asrBottom
+      AnchorSideTop.Side = asrCenter
+      Left = 64
+      Height = 23
+      Top = 25
+      Width = 110
+      BorderSpacing.Left = 6
+      ItemHeight = 15
+      Style = csDropDownList
+      TabOrder = 3
+    end
+  end
+end

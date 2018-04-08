@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="11">
+      <Unit0>
+        <Filename Value="Metodos.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="48"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainmetodos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="37" Y="55"/>
+        <UsageCount Value="48"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="class_metodo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="51" Y="36"/>
+        <UsageCount Value="48"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\A. Numericos\Taylor\class_taylor.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="15"/>
+        <CursorPos X="17" Y="15"/>
+        <UsageCount Value="18"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\A. Numericos\Taylor\maintaylor.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="57"/>
+        <CursorPos X="12" Y="87"/>
+        <UsageCount Value="18"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\..\..\..\..\..\usr\share\lazarus\1.8.0\lcl\grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="9611"/>
+        <CursorPos Y="9628"/>
+        <UsageCount Value="11"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\..\..\..\..\..\..\usr\share\lazarus\1.8.0\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3486"/>
+        <CursorPos Y="3503"/>
+        <UsageCount Value="9"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\..\..\..\..\Downloads\class_metodo.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="48"/>
+        <CursorPos X="12" Y="61"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\..\..\..\..\Downloads\mainmetodos.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="31"/>
+        <CursorPos X="34" Y="64"/>
+        <UsageCount Value="9"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\..\..\..\..\Downloads\metodosabiertos.pas"/>
+        <UnitName Value="MetodosAbiertos"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="83"/>
+        <UsageCount Value="9"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\..\Metodo\Taylor\class_taylor.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit10>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="-1"/>
+    </General>
+    <JumpHistory HistoryIndex="-1"/>
+  </ProjectSession>
+</CONFIG>
