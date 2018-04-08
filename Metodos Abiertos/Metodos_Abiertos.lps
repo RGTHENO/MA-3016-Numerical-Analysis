@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="8">
+      <Unit0>
+        <Filename Value="Metodos_Abiertos.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="22"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainmetodos_abiertos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="41"/>
+        <CursorPos X="7" Y="72"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="classmetodos_abiertos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="145"/>
+        <CursorPos X="36" Y="163"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../mainmetodos.pas"/>
+        <UnitName Value="mainmetodos_abiertos"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../class_metodo.pas"/>
+        <UnitName Value="class_metodo_abierto"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="69" Y="136"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../mainmetodos.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="mainmetodos_abiertos.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="95"/>
+        <CursorPos X="13" Y="128"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="mainmetodos.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit7>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="mainmetodos_abiertos.pas"/>
+        <Caret Line="9" Column="44"/>
+      </Position1>
+      <Position2>
+        <Filename Value="classmetodos_abiertos.pas"/>
+        <Caret Line="65" Column="17" TopLine="32"/>
+      </Position2>
+      <Position3>
+        <Filename Value="classmetodos_abiertos.pas"/>
+        <Caret Column="19"/>
+      </Position3>
+      <Position4>
+        <Filename Value="mainmetodos_abiertos.pas"/>
+        <Caret Line="30" Column="29" TopLine="13"/>
+      </Position4>
+      <Position5>
+        <Filename Value="classmetodos_abiertos.pas"/>
+        <Caret Line="30" Column="31" TopLine="7"/>
+      </Position5>
+      <Position6>
+        <Filename Value="classmetodos_abiertos.pas"/>
+        <Caret Line="163" Column="38" TopLine="145"/>
+      </Position6>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
